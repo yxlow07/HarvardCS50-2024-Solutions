@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: In reversed arrays, it takes the longest time to loop through as all elements are in the worst position possible
+
+sort2 uses: merge sort
+
+How do you know?: It takes the fastest time to sort through the all inputs
+
+sort3 uses: selection sort
+
+How do you know?: It uses average, not fast or slow time to sort through the array
